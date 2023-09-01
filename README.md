@@ -26,6 +26,7 @@ Imagem 5 - Matriz
   ![Imagem 5 - Matriz](https://github.com/RicardoVantuir/PowerBI-Estudo-Doces-Salgados/assets/141786208/7e0f8569-7425-4100-bb9c-d3831b2619c5)
 
 Vídeo demonstrando o dashboard:
+
 https://github.com/RicardoVantuir/PowerBI-Estudo-Doces-Salgados/assets/141786208/9b438ba9-b119-4da6-ba48-09de0bb16b1b
 
 
