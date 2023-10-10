@@ -1,7 +1,7 @@
 # PowerBI-Estudo-Doces-Salgados
 Dashboard
 
-Com dados obtidos na internet, criei este dashboard com base no resumo do ano fiscal de 2021 comparando com o desempenho do ano de 2020.
+Com dados obtidos na internet, criei este dashboard com base no resumo do ano fiscal de 2021 comparando com o desempenho dos meses do ano de 2020.
 
 Vídeo demonstrando o dashboard:
 
